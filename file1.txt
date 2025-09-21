@@ -1,4 +1,4 @@
 
 i am adding content in file1
-i am adding content in line3 of file1 in bugfix
-i am adding content in line4 of file1 in bugfix
+i am adding content in line3 of file1 in main
+i am adding content in line4 of file1 in main
