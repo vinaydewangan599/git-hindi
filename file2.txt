@@ -1,4 +1,8 @@
 
 
 i am adding content in file2
+<<<<<<< HEAD
 i am adding content in line4 of file2 in main
+=======
+hey bugfix
+>>>>>>> bug-fix

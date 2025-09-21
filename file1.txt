@@ -1,4 +1,9 @@
 
 i am adding content in file1
+<<<<<<< HEAD
 i am adding content in line3 of file1 in main
 i am adding content in line4 of file1 in main
+=======
+hello
+vinay
+>>>>>>> bug-fix
