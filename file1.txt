@@ -1,7 +1,20 @@
 
 i am adding content in file1
+<<<<<<< HEAD
 i am adding content in line3 of file1 in main
 i am super hero
 
 i am vinay
 i am in ece branch
+=======
+i am vivek dewangan
+i am in class 12 bio
+
+
+
+
+
+i am neeraj verma
+i am chandu 
+i am sourabh
+>>>>>>> bug-fix
